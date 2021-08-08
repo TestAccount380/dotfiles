@@ -9,3 +9,4 @@
 | Terminal Emulator | Kitty |
 | Browser | Firefox |
 | Editor | (Neo)Vim |
++--------+----------+
